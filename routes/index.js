@@ -36,11 +36,3 @@ router.post('/ingredients/:id/edit', (req, res) => {
 })
 
 module.exports = router;
-
-
-
-
-
-
-
-
